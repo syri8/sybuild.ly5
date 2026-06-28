@@ -15,9 +15,9 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- حاسبة التكاليف - أهم صفحة بعد الرئيسية -->
+  <!-- حاسبة التكاليف -->
   <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/calculator</loc>
+    <loc>https://abdshehab.github.io/syria-building-cala1/calculator.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
@@ -25,7 +25,7 @@
 
   <!-- أسعار مواد البناء -->
   <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/prices</loc>
+    <loc>https://abdshehab.github.io/syria-building-cala1/prices.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
@@ -33,7 +33,7 @@
 
   <!-- المخططات المعمارية -->
   <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/floor-plan</loc>
+    <loc>https://abdshehab.github.io/syria-building-cala1/floor-plan.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -41,7 +41,7 @@
 
   <!-- صفحة التواصل -->
   <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/contact</loc>
+    <loc>https://abdshehab.github.io/syria-building-cala1/contact.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
 
   <!-- من نحن -->
   <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/about</loc>
+    <loc>https://abdshehab.github.io/syria-building-cala1/about.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -57,7 +57,7 @@
 
   <!-- سياسة الخصوصية -->
   <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/privacy</loc>
+    <loc>https://abdshehab.github.io/syria-building-cala1/privacy.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
