@@ -1,66 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-        http://www.google.com/schemas/sitemap-image/1.1
-        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- الصفحة الرئيسية -->
   <url>
     <loc>https://abdshehab.github.io/syria-building-cala1/</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- حاسبة التكاليف -->
   <url>
     <loc>https://abdshehab.github.io/syria-building-cala1/calculator.html</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
 
-  <!-- أسعار مواد البناء -->
   <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/prices.html</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.95</priority>
-  </url>
-
-  <!-- المخططات المعمارية -->
-  <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/floor-plan.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- صفحة التواصل -->
-  <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/contact.html</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- من نحن -->
-  <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/about.html</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- سياسة الخصوصية -->
-  <url>
-    <loc>https://abdshehab.github.io/syria-building-cala1/privacy.html</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://abdshehab.github.io/syria-building-cala1/blog.html</loc>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
