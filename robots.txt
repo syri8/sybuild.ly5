@@ -1,5 +1,6 @@
 # ============================================
 # robots.txt - Syria Building Calculator
+# https://abdshehab.github.io/syria-building-cala1/
 # ============================================
 
 # Main crawler rules (applies to ALL bots)
@@ -9,9 +10,7 @@ Allow: /
 # Sitemap location
 Sitemap: https://abdshehab.github.io/syria-building-cala1/sitemap.xml
 
-# ============================================
 # Restricted areas (for future use)
-# ============================================
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
@@ -26,24 +25,20 @@ Disallow: /test/
 User-agent: Googlebot
 Allow: /
 
-# Bingbot - full access
+# Bingbot - full access  
 User-agent: Bingbot
 Allow: /
 
-# Yahoo Slurp - full access
+# Yahoo Slurp
 User-agent: Slurp
 Allow: /
 
-# DuckDuckGo - full access
+# DuckDuckGo
 User-agent: DuckDuckBot
 Allow: /
 
-# Baidu - full access (if targeting China)
-User-agent: Baiduspider
-Allow: /
-
 # ============================================
-# Bad bots to block (optional)
+# Bad bots to block
 # ============================================
 User-agent: MJ12bot
 Disallow: /
