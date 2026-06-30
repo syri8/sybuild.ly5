@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: /
-
-# السماح بالصفحات المهمة فقط
 Allow: /index.html
 Allow: /calculator.html
 Allow: /blog.html
@@ -9,8 +6,8 @@ Allow: /contact.html
 Allow: /sitemap.xml
 Allow: /robots.txt
 
-# Sitemap
-Sitemap: https://syri8.github.io/sybuild.ly5/sitemap.xml
+# منع كل شيء آخر
+Disallow: /
 
 # منع الملفات غير الضرورية
 Disallow: /site-ready.zip
@@ -20,3 +17,6 @@ Disallow: /manifest.json
 Disallow: /vercel.json
 Disallow: /netlify.toml
 Disallow: /README.md
+
+# Sitemap
+Sitemap: https://syri8.github.io/sybuild.ly5/sitemap.xml
