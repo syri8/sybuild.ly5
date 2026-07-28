@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /site-ready.zip
+Disallow: /screenshot-wide.png
+Disallow: /icon-512.png
+Disallow: /manifest.json
+Disallow: /vercel.json
+Disallow: /netlify.toml
+Disallow: /README.md
+
+Sitemap: https://syri8.github.io/sybuild.ly5/sitemap.xml
